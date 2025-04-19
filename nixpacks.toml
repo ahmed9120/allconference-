@@ -1,2 +1,5 @@
+[build]
+environment = "ubuntu"
+
 [start]
 cmd = "python app.py"
