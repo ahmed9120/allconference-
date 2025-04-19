@@ -1,5 +1,0 @@
-{
-  "build": {
-    "postInstall": "python -m playwright install"
-  }
-}
